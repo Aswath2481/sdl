@@ -4,5 +4,5 @@ Serial data logger
  Features:
  1. Time based auto-naming, hence no need to change file name for each run
  2. Supports various baud rates 
-Language used: Python, Micro-Python (ESP8266 board).
-Tool/module used: pyinstaller.
+* Language used: Python, Micro-Python (ESP8266 board).
+* Tool/module used: pyinstaller.
